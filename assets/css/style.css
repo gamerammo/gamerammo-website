@@ -8,9 +8,9 @@ html {
 }
 
 body {
-  background: #000;
+  background: #111;
   font: 400 12px/1.8 "Open Sans", sans-serif;
-  color: #666;
+  color: #cecece;
   -webkit-font-smoothing: antialiased;
 }
 
@@ -343,7 +343,7 @@ a,
 }
 
 .pb-0 {
-  padding-bottom: 0 !important;
+  padding-bottom: 5% !important;
 }
 
 .pb-10 {
