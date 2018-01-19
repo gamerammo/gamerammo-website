@@ -1564,6 +1564,10 @@ Google map
   color: #ffffff;
 }
 
+.features-icon .cc{
+  line-height:1;
+}
+
 .features-title,
 .alt-features-title {
   text-transform: uppercase;
