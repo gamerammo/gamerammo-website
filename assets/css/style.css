@@ -8,7 +8,7 @@ html {
 }
 
 body {
-  background: #fff;
+  background: #000;
   font: 400 12px/1.8 "Open Sans", sans-serif;
   color: #666;
   -webkit-font-smoothing: antialiased;
@@ -105,7 +105,7 @@ a,
 }
 
 .et-icons .box1 {
-  border: 1px solid #e5e5e5;
+  border: 1px solid #F9A12C;
   display: block;
   width: 25%;
   float: left;
@@ -116,7 +116,7 @@ a,
 
 .et-icons .box1 > span {
   display: inline-block;
-  border-right: 1px solid #e5e5e5;
+  border-right: 1px solid #F9A12C;
   min-width: 60px;
   min-height: 60px;
   text-align: center;
@@ -156,7 +156,7 @@ a,
 
 .main {
   position: relative;
-  background-color: #fff;
+  background-color: #000;
   z-index: 1;
 }
 
@@ -244,11 +244,11 @@ a,
 .bg-dark-30 .alt-module-subtitle h5,
 .bg-dark-60 .alt-module-subtitle h5,
 .bg-dark-90 .alt-module-subtitle h5 {
-  color: #fff;
+  color: #ffffff;
 }
 
 .bg-dark {
-  background: #111;
+  background: #666;
 }
 
 .bg-dark-30:before {
@@ -301,7 +301,7 @@ a,
 }
 
 .bg-light {
-  background: #f6f6f6;
+  background: #;
 }
 
 .parallax-bg {
@@ -921,14 +921,14 @@ blockquote {
   text-align: center;
   font-weight: 400;
   font-size: 30px;
-  color: #111;
+  color: #e6af4b;
   margin: 0 0 70px;
 }
 
 .module-subtitle {
   text-align: center;
   font-size: 16px;
-  color: #111;
+  color: #fff;
   margin-bottom: 70px;
 }
 
@@ -1561,7 +1561,7 @@ Google map
 .alt-features-icon {
   line-height: 1.2;
   font-size: 42px;
-  color: #111;
+  color: #ffffff;
 }
 
 .features-title,
@@ -1570,7 +1570,7 @@ Google map
   letter-spacing: 2px;
   font-weight: 400;
   font-size: 14px;
-  color: #111;
+  color: #e6af4b;
   margin: 16px 0 15px;
 }
 
@@ -1675,7 +1675,7 @@ Google map
 
 .team-name {
   font-size: 14px;
-  color: #111;
+  color: #e6af4b;
 }
 
 .team-role {
@@ -2165,10 +2165,15 @@ Google map
 .post-title {
   line-height: 1.4;
   font-size: 22px;
-  color: #111;
+  color: #e6af4b;
   margin: 0;
 }
-
+.post-title a{
+  line-height: 1.4;
+  font-size: 22px;
+  color: #e6af4b;
+  margin: 0;
+}
 .post-header {
   margin: 0 0 15px;
 }
@@ -2177,7 +2182,12 @@ Google map
   font-size: 11px;
   color: #aaa;
 }
-
+.post-meta a{
+  color:#e6af4b;
+}
+.post-meta a:hover{
+  color:#aaa;
+}
 .post-entry {
   border-top: 1px dotted #c2c2c2;
   padding-top: 20px;
@@ -2389,7 +2399,7 @@ Google map
 
 .widget .icon-list li a:before {
   content: "\00BB";
-  color: #666666;
+  color: #e6af4b;
   padding-right: 5px;
 }
 
