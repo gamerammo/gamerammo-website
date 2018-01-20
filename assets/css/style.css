@@ -1870,7 +1870,12 @@ Google map
   padding: 0 0 10px;
   margin: 0 25px;
 }
-
+.filter > li > a {
+  color:#cecece;
+}
+.filter > li > a:hover {
+  color:#ffffff;
+}
 /* Portfolio grid */
 .works-grid {
   list-style: none;
@@ -1922,7 +1927,8 @@ Google map
 .work-image img {
   display: block;
   overflow: hidden;
-  width: 100%;
+  width: 75%;
+  padding-left:25%;
 }
 
 .work-image:after {
