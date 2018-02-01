@@ -1,0 +1,14 @@
+{% if page.meta.source %}
+<div class="source-links">
+{% for filename in page.meta.source %}
+    <span class="label label-primary">{{ filename }}</span>
+{% endfor %}
+</div>
+{% endif %}
+
+
+<div style="text-align: right;">
+<a href="{{ config.repo_url }}{{ config.edit_uri }}{{ page.input_path }}">Edit this page</a>
+</div>
+
+{{ page.content }}
