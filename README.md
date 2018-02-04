@@ -1,2 +1,2 @@
-# gamerammo-io
-The gamerammo website.
+# Gamer Ammo Website
+The full Gamer Ammo website.
