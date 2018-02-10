@@ -1,3 +1,0 @@
-# Evangelism
-
-//TODO
