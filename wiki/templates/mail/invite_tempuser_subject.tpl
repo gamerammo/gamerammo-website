@@ -1,0 +1,1 @@
+{* $Id: invite_tempuser_subject.tpl 62176 2017-04-10 06:01:52Z drsassafras $ *}{tr _0=$prefs.browsertitle}Your {$prefs.mail_template_custom_text}temporary access to %0{/tr}
