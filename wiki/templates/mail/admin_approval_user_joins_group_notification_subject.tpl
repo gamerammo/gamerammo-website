@@ -1,1 +1,0 @@
-{* $Id: admin_approval_user_joins_group_notification_subject.tpl 62176 2017-04-10 06:01:52Z drsassafras $ *}{$prefs.mail_template_custom_text}{$mail_group} - {tr}Leader approved your request{/tr}.
