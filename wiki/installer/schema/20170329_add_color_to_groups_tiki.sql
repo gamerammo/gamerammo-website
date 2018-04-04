@@ -1,1 +1,0 @@
-ALTER TABLE `users_groups` ADD `groupColor` VARCHAR(20) NOT NULL DEFAULT '' AFTER `groupTheme`;

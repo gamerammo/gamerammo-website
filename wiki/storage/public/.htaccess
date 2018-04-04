@@ -1,9 +1,0 @@
-<FilesMatch ".*">
-    <IfModule mod_authz_core.c>
-       Require all granted
-    </IfModule>
-    <IfModule !mod_authz_core.c>
-      order deny,allow
-      allow from all
-    </IfModule>
-</FilesMatch>
