@@ -175,7 +175,7 @@ a,
   float:none;
 }
 #map{
-  background: url(../images/ga-roadmap.svg);
+  background: url(../images/roadmaps/february-2018/roadmap-horizontal.svg);
   display: block;
   text-indent: -9999px;
   height:100%;
@@ -184,8 +184,12 @@ a,
   background-repeat:no-repeat;
   background-position: center center;
 }
-#map-clutch{
-  background: url(../images/clutchat-banner.svg);
+@media only screen and (max-width: 767px) {
+  #map-section{
+    height:1200px !important;
+  }
+  #map{
+  background: url(../images/roadmaps/february-2018/roadmap-vertical.svg);
   display: block;
   text-indent: -9999px;
   height:100%;
@@ -193,6 +197,7 @@ a,
   background-size:100% 100%;
   background-repeat:no-repeat;
   background-position: center center;
+}
 }
 a.gamerammo{
   background: url(../images/gamerammo-word.svg);
@@ -1710,6 +1715,7 @@ Google map
 
 .team-image img {
   width: 100%;
+  border-radius:150px;
 }
 
 .team-image:after {
@@ -1735,8 +1741,8 @@ Google map
   font-size: 12px;
   color: #aaa;
   padding: 20px;
-}
 
+}
 .team-detail h5 {
   font-size: 16px;
 }
@@ -1744,7 +1750,18 @@ Google map
 .team-detail p {
   font-size: 14px;
 }
-
+.col-md-2 .team-item .team-image .team-detail.team-detail h5{
+  font-size:12px;
+  padding:0;
+}
+.col-md-2 .team-item .team-image .team-detail p.font-serif{
+  font-size:10px;
+  padding:0;
+  margin:0 0 10px;
+}
+.col-md-2 .team-item .team-image .team-detail .team-social a{
+  padding:0 5px;
+}
 .team-social a {
   display: inline-block;
   color: #aaa;
@@ -1756,17 +1773,17 @@ Google map
 }
 
 .team-descr {
-  margin: 20px 0 0;
+  margin: 20px 0 20px;
 }
 
 .team-name {
   font-size: 14px;
-  color: #e6af4b;
+  color:#e6af4b;
 }
 
 .team-role {
   font-size: 11px;
-  color: #aaa;
+  color: #fff;
 }
 
 .team-item:hover .team-image:after {
