@@ -4,7 +4,7 @@ The official homepage of Gamer Ammo, Inc. located at [gamerammo.io](https://game
 ## About Us
 Gamer Ammo is on a mission of declaration: _Gaming is a Profession_. We are declaring this a fact by building a suite of gaming related software aimed at making the gamer's environment more accessibly to profiting from their profession. Our flagship product will be [Clutchat](https://github.com/gamerammo/clutchat), the gamer's hub for chat, content, and finance. We are making this possible by utilizing decentralized peer-to-peer technologies and building the platform gamer-first.
 
-### What's Decentralized?
+### Decentralized Gaming
 When we say we use decentralized technologies, that means we are utilizing the cutting edge of user data management in-order to provide our services to you. We utilized distributed ledger technology, some written by us or others, to provide the gamer the content and the information they say. This provides anonymity, security, and allows us room for innovation. In the event of blockchain technologies, we utilize the [Ethereum Classic](https://github.com/ethereumproject) network.
 
 ### What's Here?
