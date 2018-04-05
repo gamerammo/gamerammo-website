@@ -23,4 +23,4 @@ Our most recent version of our pitch deck is available at [gamerammo.io/pitch.pd
 The most up-to-date version of the Gamer Ammo, Inc. Employee Handbook is located at the repository [gamerammo/handbook](https://github.com/gamerammo/handbook).
 
 ## Join the Movement
-We encourage anyone who wants to join our movement to join our [Discord server](https://discord.gg/5wBRPE8).
+We encourage anyone who wants to join our movement to join our [Discord server](https://discord.gg/5wBRPE8). You can also keep up-to-date on what's going on via our [Medium](https://medium.com/gamerammo) publication.
