@@ -1,5 +1,8 @@
 # Gamer Ammo Homepage
-The official homepage of Gamer Ammo, Inc. located at [gamerammo.io](https://gamerammo.io). This repository contains the files located on the Gamer Ammo server to display the current version of the website.
+The official homepage of Gamer Ammo, Inc. located at [gamerammo.io](https://gamerammo.io).
+
+## About Us
+Gamer Ammo is on a mission of declaration: _Gaming is a Profession_. We are declaring this a fact by building a suite of gaming related software aimed at making the gamer's environment more accessibly to profiting from their profession. Our flagship product will be [Clutchat](https://github.com/gamerammo/clutchat), the gamer's hub for chat, content, and finance.
 
 ## Documentation
 For more information on how to contribute to this repository checkout [CONTRIBUTING.md](docs/CONTRIBUTING.md). There you will find the information needed to begin providing contributions to the Gamer Ammo website.
