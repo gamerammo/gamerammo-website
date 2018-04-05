@@ -8,7 +8,7 @@ Gamer Ammo is on a mission of declaration: _Gaming is a Profession_. We are decl
 When we say we use decentralized technologies, that means we are utilizing the cutting edge of user data management in-order to provide our services to you. We utilized distributed ledger technology, some written by us or others, to provide the gamer the content and the information they say. This provides anonymity, security, and allows us room for innovation. In the event of blockchain technologies, we utilize the [Ethereum Classic](https://github.com/ethereumproject) network.
 
 ### What's Here?
-In this repository you'll find all the files used on our website [gamerammo.io](https://gamerammo.io). Additional, you'll find our [wiki](https://github.com/gamerammo/gamerammo-io/wiki) here as well. This wiki contains development information as well as our Streaming Wiki, a comprehensive wiki for the streamer out there.
+In this repository you'll find all the files used on our website [gamerammo.io](https://gamerammo.io). Additionaly, you'll find our [wiki](https://github.com/gamerammo/gamerammo-io/wiki) here as well. This wiki contains development information as well as our Streaming Wiki, a comprehensive wiki for the streamer out there. The wiki is also the best place to start looking into how to setup and use any of our software.
 
 ## Documentation
 For more information on how to contribute to this repository checkout [CONTRIBUTING.md](docs/CONTRIBUTING.md). There you will find the information needed to begin providing contributions to the Gamer Ammo website.
