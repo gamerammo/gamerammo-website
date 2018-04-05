@@ -4,8 +4,8 @@ The official homepage of Gamer Ammo, Inc. located at [gamerammo.io](https://game
 ## Documentation
 For more information on how to contribute to this repository checkout [CONTRIBUTING.md](docs/CONTRIBUTING.md). There you will find the information needed to begin providing contributions to the Gamer Ammo website.
 
-### Whitepaper
-The Gamer Ammo Whitepaper will be available soon.
+### White Paper
+The Gamer Ammo White Paper will be available soon.
 
 ### Business Plan
 You can find the most recent version of the Gamer Ammo, Inc. Business Plan at the repository [gamerammo/businessplan](https://github.com/gamerammo/businessplan).
