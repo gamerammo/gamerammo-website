@@ -4,6 +4,12 @@ The official homepage of Gamer Ammo, Inc. located at [gamerammo.io](https://game
 ## About Us
 Gamer Ammo is on a mission of declaration: _Gaming is a Profession_. We are declaring this a fact by building a suite of gaming related software aimed at making the gamer's environment more accessibly to profiting from their profession. Our flagship product will be [Clutchat](https://github.com/gamerammo/clutchat), the gamer's hub for chat, content, and finance. We are making this possible by utilizing decentralized peer-to-peer technologies and building the platform gamer-first.
 
+### What's Here?
++ Website Files
+In this repository you'll find all the files used on our website [gamerammo.io](https://gamerammo.io).
++ Wiki
+You'll find our [wiki](https://github.com/gamerammo/gamerammo-io/wiki) here as well. This wiki contains development information as well as our Streaming Wiki, a comprehensive wiki for streaming.
+
 ## Documentation
 For more information on how to contribute to this repository checkout [CONTRIBUTING.md](docs/CONTRIBUTING.md). There you will find the information needed to begin providing contributions to the Gamer Ammo website.
 
@@ -18,3 +24,6 @@ Our most recent version of our pitch deck is available at [gamerammo.io/pitch.pd
 
 ### Handbook
 The most up-to-date version of the Gamer Ammo, Inc. Employee Handbook is located at the repository [gamerammo/handbook](https://github.com/gamerammo/handbook).
+
+## Join the Movement
+We encourage anyone who wants to join our movement to join our [Discord server](https://discord.gg/5wBRPE8).
