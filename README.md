@@ -7,8 +7,8 @@ For more information on how to contribute to this repository checkout [CONTRIBUT
 ### Pitch Deck
 Our most recent version of our pitch deck is available at [gamerammo.io/pitch.pdf](https://gamerammo.io/pitch) or in the docs directory of this reposity [docs/pitch.pdf](docs/pitch).
 
-### Business Plan 
-You can find the Gamer Ammo, Inc. Business Plan at the repository [gamerammo/businessplan](https://github.com/gamerammo/businessplan).
+### Business Plan
+You can find the most recent version of the Gamer Ammo, Inc. Business Plan at the repository [gamerammo/businessplan](https://github.com/gamerammo/businessplan).
 
 ### Handbook
-You can find the Gamer Ammo, Inc. Employee Handbook at the repository [gamerammo/handbook](https://github.com/gamerammo/handbook).
+You can find the most recent version of the Gamer Ammo, Inc. Employee Handbook at the repository [gamerammo/handbook](https://github.com/gamerammo/handbook).
