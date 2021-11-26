@@ -1,0 +1,13 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "Live Preview",
+			"args": [
+				"--verbose"
+			],
+			"problemMatcher": [],
+			"label": "Live Preview: Run Server --verbose"
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.0.1",
+    "configurations": [
+        {
+            "command": "yarn start",
+            "name": "Yarn",
+            "request": "launch",
+            "type": "node-terminal"
+        },
+        {
+            "type": "pwa-chrome",
+            "request": "launch",
+            "name": "Launch Chrome",
+            "url": "http://localhost:8000",
+            "webRoot": "${workspaceFolder}"
+        },
+    ],
+    "compounds": [
+        {
+            "name": "Yarn -> Chrome",
+            "configurations": [
+                "Yarn",
+                "Launch Chrome"
+            ],
+            "preLaunchTask": "${defaultBuildTask}"
+        }
+    ]
+}
