@@ -17,7 +17,7 @@ export default function Footer() {
               <a href="tel:2693890082">
                 <i className="fa fa-phone" />
               </a>
-              <a href="mailto:info@gamerammo.io">
+              <a href="mailto:info@gamerammo.gg">
                 <i className="fa fa-envelope" />
               </a>
               <a href="https://medium.com/gamerammo">

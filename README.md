@@ -1,6 +1,6 @@
 # Gamer Ammo Homepage
 
-The official homepage of Gamer Ammo, Inc. located at [gamerammo.io](https://gamerammo.io). This repository contains all the files used on the current version of the Gamer Ammo website.
+The official homepage of Gamer Ammo, Inc. located at [gamerammo.gg](https://gamerammo.gg). This repository contains all the files used on the current version of the Gamer Ammo website.
 
 ## About Us
 
@@ -12,7 +12,7 @@ When we say we use decentralized technologies, that means we are utilizing the c
 
 ### What's Here?
 
-In this repository you'll find all the files used on our website [gamerammo.io](https://gamerammo.io). Additionaly, you'll find our [wiki](https://github.com/gamerammo/gamerammo-io/wiki) here as well. This wiki contains development information as well as our Streaming Wiki, a comprehensive wiki for the streamer out there. The wiki is also the best place to start looking into how to setup and use any of our software.
+In this repository you'll find all the files used on our website [gamerammo.gg](https://gamerammo.gg). Additionaly, you'll find our [wiki](https://github.com/gamerammo/gamerammo-io/wiki) here as well. This wiki contains development information as well as our Streaming Wiki, a comprehensive wiki for the streamer out there. The wiki is also the best place to start looking into how to setup and use any of our software.
 
 ## Documentation
 
@@ -28,7 +28,7 @@ You can find the most recent version of the Gamer Ammo, Inc. Business Plan at th
 
 ### Pitch Deck
 
-Our most recent version of our pitch deck is available at [gamerammo.io/pitch.pdf](https://gamerammo.io/pitch) or in the docs directory of this repository [docs/pitch.pdf](docs/pitch).
+Our most recent version of our pitch deck is available at [gamerammo.gg/pitch.pdf](https://gamerammo.gg/pitch) or in the docs directory of this repository [docs/pitch.pdf](docs/pitch).
 
 ### Handbook
 
